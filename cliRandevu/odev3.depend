@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1546487690 source:/home/cagdas/Desktop/odevCpp/odev3/akademisyen.cpp
+	<iostream>
+	"mate.h"
+	"akademisyen.h"
+	<string>
+
+1546487615 /home/cagdas/Desktop/odevCpp/odev3/mate.h
+	<iostream>
+	<string>
+
+1546487682 /home/cagdas/Desktop/odevCpp/odev3/akademisyen.h
+	"mate.h"
+	<iostream>
+	<string>
+
+1546487632 source:/home/cagdas/Desktop/odevCpp/odev3/mate.cpp
+	"mate.h"
+	<iostream>
+	<string>
+
+1546487656 source:/home/cagdas/Desktop/odevCpp/odev3/ogrenci.cpp
+	"ogrenci.h"
+	<iostream>
+	<string>
+
+1546487647 /home/cagdas/Desktop/odevCpp/odev3/ogrenci.h
+	"mate.h"
+	<iostream>
+	<string>
+
