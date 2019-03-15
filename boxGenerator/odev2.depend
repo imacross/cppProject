@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1546485355 source:/home/cagdas/Desktop/odevCpp/odev2/box.cpp
+	<iostream>
+	"box.h"
+	"coord.h"
+
+1546485337 /home/cagdas/Desktop/odevCpp/odev2/box.h
+	"coord.h"
+
+1546485241 /home/cagdas/Desktop/odevCpp/odev2/coord.h
+
+1546485319 source:/home/cagdas/Desktop/odevCpp/odev2/coord.cpp
+	"coord.h"
+	<iostream>
+
+1546485220 source:/home/cagdas/Desktop/odevCpp/odev2/main.cpp
+	<iostream>
+	"coord.h"
+	"box.h"
+	"space.h"
+
+1546485370 /home/cagdas/Desktop/odevCpp/odev2/space.h
+	"box.h"
+	"coord.h"
+	<time.h>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+1 Numaralı kutu, Başlangıç Koordinantı:0x0 ; Bitiş Koordinantı:6x1
+2 Numaralı kutu, Başlangıç Koordinantı:0x1 ; Bitiş Koordinantı:6x2
+3 Numaralı kutu, Başlangıç Koordinantı:0x2 ; Bitiş Koordinantı:4x6
+4 Numaralı kutu, Başlangıç Koordinantı:0x6 ; Bitiş Koordinantı:4x7
+5 Numaralı kutu, Başlangıç Koordinantı:0x7 ; Bitiş Koordinantı:3x10
+6 Numaralı kutu, Başlangıç Koordinantı:6x0 ; Bitiş Koordinantı:8x6
+7 Numaralı kutu, Başlangıç Koordinantı:6x6 ; Bitiş Koordinantı:8x7
+8 Numaralı kutu, Başlangıç Koordinantı:8x0 ; Bitiş Koordinantı:9x5
+9 Numaralı kutu, Başlangıç Koordinantı:8x5 ; Bitiş Koordinantı:9x8
+10 Numaralı kutu, Başlangıç Koordinantı:8x8 ; Bitiş Koordinantı:9x10
+
+Ağırlık merkezi koordinantları X:4.01097 Y:3.8511

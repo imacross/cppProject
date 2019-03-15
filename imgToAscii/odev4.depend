@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1546489560 source:/home/cagdas/Desktop/odevCpp/odev4/goruntu.cpp
+	<iostream>
+	<math.h>
+	"goruntu.h"
+
+1546489530 /home/cagdas/Desktop/odevCpp/odev4/goruntu.h
+	"matris.h"
+	<fstream>
+	<fstream>
+	<iostream>
+
+1546489506 /home/cagdas/Desktop/odevCpp/odev4/matris.h
+	<iostream>
+
+1546489522 source:/home/cagdas/Desktop/odevCpp/odev4/matris.cpp
+	<iostream>
+	"matris.h"
+
